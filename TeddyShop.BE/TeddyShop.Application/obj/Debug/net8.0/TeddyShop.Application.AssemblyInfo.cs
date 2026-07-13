@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeddyShop.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cf31c5e28a0ecc199891664035878397fa5f507")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeddyShop.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeddyShop.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

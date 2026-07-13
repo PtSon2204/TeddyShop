@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace TeddyShop.Domain.Common
 {
-    internal class IDomainEvent
+    public interface IDomainEvent
     {
+        Guid Id { get; }
+        DateTime OccurredOn { get; }
     }
 }
