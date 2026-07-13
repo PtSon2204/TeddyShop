@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester 8\\TeddyShopProject\\TeddyShop.BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54463B87-66C1-4C36-AB84-A2D79B2410CB}|TeddyShop.Domain\\TeddyShop.Domain.csproj|d:\\semester 8\\teddyshopproject\\teddyshop.be\\teddyshop.domain\\common\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54463B87-66C1-4C36-AB84-A2D79B2410CB}|TeddyShop.Domain\\TeddyShop.Domain.csproj|solutionrelative:teddyshop.domain\\common\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54463B87-66C1-4C36-AB84-A2D79B2410CB}|TeddyShop.Domain\\TeddyShop.Domain.csproj|d:\\semester 8\\teddyshopproject\\teddyshop.be\\teddyshop.domain\\common\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54463B87-66C1-4C36-AB84-A2D79B2410CB}|TeddyShop.Domain\\TeddyShop.Domain.csproj|solutionrelative:teddyshop.domain\\common\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54463B87-66C1-4C36-AB84-A2D79B2410CB}|TeddyShop.Domain\\TeddyShop.Domain.csproj|d:\\semester 8\\teddyshopproject\\teddyshop.be\\teddyshop.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54463B87-66C1-4C36-AB84-A2D79B2410CB}|TeddyShop.Domain\\TeddyShop.Domain.csproj|solutionrelative:teddyshop.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9FC44A-17BD-493E-86EB-61C58ADEF957}|TeddyShop.Infrastructure\\TeddyShop.Infrastructure.csproj|d:\\semester 8\\teddyshopproject\\teddyshop.be\\teddyshop.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9FC44A-17BD-493E-86EB-61C58ADEF957}|TeddyShop.Infrastructure\\TeddyShop.Infrastructure.csproj|solutionrelative:teddyshop.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8184D1-2115-4A67-A1BE-574802D2A77C}|TeddyShop.Application\\TeddyShop.Application.csproj|d:\\semester 8\\teddyshopproject\\teddyshop.be\\teddyshop.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8184D1-2115-4A67-A1BE-574802D2A77C}|TeddyShop.Application\\TeddyShop.Application.csproj|solutionrelative:teddyshop.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:35:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "D:\\Semester 8\\TeddyShopProject\\TeddyShop.BE\\TeddyShop.Domain\\Common\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "TeddyShop.Domain\\Common\\IDomainEvent.cs",
+              "ToolTip": "D:\\Semester 8\\TeddyShopProject\\TeddyShop.BE\\TeddyShop.Domain\\Common\\IDomainEvent.cs",
+              "RelativeToolTip": "TeddyShop.Domain\\Common\\IDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T02:41:29.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "D:\\Semester 8\\TeddyShopProject\\TeddyShop.BE\\TeddyShop.Domain\\Common\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "TeddyShop.Domain\\Common\\AggregateRoot.cs",
+              "ToolTip": "D:\\Semester 8\\TeddyShopProject\\TeddyShop.BE\\TeddyShop.Domain\\Common\\AggregateRoot.cs",
+              "RelativeToolTip": "TeddyShop.Domain\\Common\\AggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T02:41:06.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Semester 8\\TeddyShopProject\\TeddyShop.BE\\TeddyShop.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "TeddyShop.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "D:\\Semester 8\\TeddyShopProject\\TeddyShop.BE\\TeddyShop.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "TeddyShop.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T02:40:55.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Semester 8\\TeddyShopProject\\TeddyShop.BE\\TeddyShop.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "TeddyShop.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Semester 8\\TeddyShopProject\\TeddyShop.BE\\TeddyShop.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "TeddyShop.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T02:11:19.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Semester 8\\TeddyShopProject\\TeddyShop.BE\\TeddyShop.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "TeddyShop.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\Semester 8\\TeddyShopProject\\TeddyShop.BE\\TeddyShop.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "TeddyShop.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T01:56:47.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
